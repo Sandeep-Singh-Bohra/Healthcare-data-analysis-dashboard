@@ -1,2 +1,2 @@
 # Healthcare-data-analysis-dashboard
-Interactive healthcare analytics dashboard built with Microsoft Excel using Pivot Tables, Charts, and KPIs.
+Healthcare Patient Analytics Dashboard is an interactive Excel Dashboard created to analyze healthcare patient data. It provides insights into patient demographics, medical conditions, admission types hospitals, insurance providers, billing amounts, and revenue trends using Pivot Tables, Pivot Charts, KPIs, Slicers, and Timeline.
